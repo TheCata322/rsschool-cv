@@ -6,3 +6,10 @@
 * GitHub: [TheCata322](https://github.com/TheCata322)
 
     
+## Skills
+* HTML/PUG
+* CSS/SASS
+* Gulp
+* MYSQL
+* Linux
+
