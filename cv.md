@@ -12,4 +12,11 @@
 * Gulp
 * MYSQL
 * Linux
+## Education
+* BSUIR Affiliate Minsk Radioengineering College
+* Courses
+    * [It-shattle](https://it-shatle.relax.by/)
+## English
+* A2
+
 
