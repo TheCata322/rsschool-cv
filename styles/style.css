@@ -38,6 +38,44 @@ body {
     font-weight: 300;
 }
 
+/* Header End */
+
+/* Main Start */
+.main {
+    background: rgb(240, 240, 240);
+}
+
+.aboutme {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items:center;
+    padding: 50px 0;
+    border-bottom: 10px solid #C3B091;
+}
+
+.aboutme-avatar {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.aboutme-information {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.aboutme-information__name {
+    margin-bottom: 25px;
+    border-bottom: 5px solid #C3B091;
+    padding-bottom: 25px;
+}
+
+
+
+/* Main End */
+
 
 
 
