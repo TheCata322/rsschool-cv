@@ -72,6 +72,44 @@ body {
     padding-bottom: 25px;
 }
 
+.topinfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.topinfo-profile {
+    margin-left: 5px;
+    max-width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.topinfo-profile__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.topinfo-profile__info {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.topinfo-contacts {
+    margin-right: 5px;
+    width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.topinfo-contacts__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
 
 
 /* Main End */
