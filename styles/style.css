@@ -1,0 +1,191 @@
+html {
+    scroll-behavior: smooth; 
+  }
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+/* Header Start*/
+.header {
+    background: #C3B091;
+}
+
+.nav {
+    padding: 20px 0;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+/* Header End */
+
+/* Main Start */
+.main {
+    background: rgb(240, 240, 240);
+}
+
+.aboutme {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items:center;
+    padding: 50px 0;
+    border-bottom: 10px solid #C3B091;
+}
+
+.aboutme-avatar {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.aboutme-information {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.aboutme-information__name {
+    margin-bottom: 25px;
+    border-bottom: 5px solid #C3B091;
+    padding-bottom: 25px;
+}
+
+.topinfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.topinfo a {
+    color:#6b7e6d
+}
+
+.topinfo-profile {
+    margin-left: 5px;
+    max-width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.topinfo-profile__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.topinfo-profile__info {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.topinfo-contacts {
+    margin-right: 5px;
+    width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.topinfo-contacts__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.middleinfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.middleinfo a {
+    color:#6b7e6d
+}
+
+.middleinfo-skills {
+    margin-left: 5px;
+    border-bottom:2px solid #C3B091;
+    width: 500px;
+}
+
+.middleinfo-skills__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+.middleinfo-courses {
+    margin-right: 5px;
+    width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.middleinfo-courses__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.botinfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 20px;
+
+}
+
+.botinfo a {
+    color:#6b7e6d;
+}
+
+.botinfo-education {
+    margin-right: 5px;
+    width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.botinfo-education__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.botinfo-english {
+    margin-right: 5px;
+    width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.botinfo-english__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+/* Main End */
+
+
+
+
