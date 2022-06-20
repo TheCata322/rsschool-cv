@@ -78,6 +78,9 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+.topinfo a {
+    color:#6b7e6d
+}
 
 .topinfo-profile {
     margin-left: 5px;
@@ -102,6 +105,40 @@ body {
 }
 
 .topinfo-contacts__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.middleinfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.middleinfo a {
+    color:#6b7e6d
+}
+
+.middleinfo-skills {
+    margin-left: 5px;
+    border-bottom:2px solid #C3B091;
+    width: 500px;
+}
+
+.middleinfo-skills__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+.middleinfo-courses {
+    margin-right: 5px;
+    width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.middleinfo-courses__title {
     margin-top: 10px;
     margin-bottom: 20px;
 }
