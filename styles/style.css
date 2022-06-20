@@ -149,7 +149,6 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     padding-bottom: 20px;
-
 }
 
 .botinfo a {
@@ -159,7 +158,6 @@ body {
 .botinfo-education {
     margin-right: 5px;
     width: 500px;
-    border-bottom:2px solid #C3B091;
 }
 
 .botinfo-education__title {
@@ -170,7 +168,6 @@ body {
 .botinfo-english {
     margin-right: 5px;
     width: 500px;
-    border-bottom:2px solid #C3B091;
 }
 
 .botinfo-english__title {
@@ -185,6 +182,16 @@ body {
 
 
 /* Main End */
+
+
+.footer {
+    background-color: #C3B091;
+}
+
+.footer-logo {
+    max-width: 80px;
+    max-height: 40px;
+}
 
 
 
