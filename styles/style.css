@@ -143,6 +143,41 @@ body {
     margin-bottom: 20px;
 }
 
+.botinfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 20px;
+
+}
+
+.botinfo a {
+    color:#6b7e6d;
+}
+
+.botinfo-education {
+    margin-right: 5px;
+    width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.botinfo-education__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.botinfo-english {
+    margin-right: 5px;
+    width: 500px;
+    border-bottom:2px solid #C3B091;
+}
+
+.botinfo-english__title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
 
 
 
